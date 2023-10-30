@@ -1,11 +1,22 @@
 [
-{
-    "categoria":"arte",
-    "pregunta":"como me llamo",
-    "respuesta":"dulce",
-    "incorrecta1":"delfina",
-    "incorrecta2":"delfina",
-    "incorrecta3":"delfina",
-    "Object_fit":"cover"
-}
-]
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Quién pintó la mona lisa?",
+        "respuesta": "Leonardo da Vinci",
+        "incorrecta1": "Picasso",
+        "incorrecta2": "Miguel Ángel",
+        "incorrecta3": "Monet",
+
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Pintor de  \"El jardín de las delicias\"",
+        "respuesta": "El Bosco",
+        "incorrecta1": "Velásquez",
+        "incorrecta2": "Picasso",
+        "incorrecta3": "Dalí",
+     
+        "objectFit": "cover"
+    }
+    ]
