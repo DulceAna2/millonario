@@ -11,8 +11,6 @@
 
 
 <body>
-
-
   <div class="contenedor">
     <div class="puntaje" id="puntaje"></div>
     <div class="encabezado">
@@ -32,13 +30,7 @@
       let preguntas_aleatorias = true;
       let mostrar_pantalla_juego_términado = true;
       let reiniciar_puntos_al_reiniciar_el_juego = true;
-
-
       /*valor */
-
-
-
-
       window.onload = function () {
         base_preguntas = readText("base-preguntas.json");
         interprete_bp = JSON.parse(base_preguntas);
@@ -58,8 +50,25 @@
       let preguntas_hechas = 0;
       let preguntas_correctas = 0;
 
-
       function escogerPreguntaAleatoria() {
+        if (preguntas_hechas >= 10) {
+          //pantalla cuanto se termina las 10 preguntas
+          if (mostrar_pantalla_juego_términado) {
+            swal.fire({
+              title: "juego terminado",
+              text: "puntuacion" + preguntas_correctas + "/10",
+              icon: "sucess"
+            });
+          }
+          if (reiniciar_puntos_al_reiniciar_el_juego) {
+            preguntas_correctas = 0;
+            preguntas_hechas = 0;
+          }
+          npreguntas = [];
+          return;
+
+        }
+
         let n;
         if (preguntas_aleatorias) {
           n = Math.floor(Math.random() * interprete_bp.length);
@@ -231,15 +240,7 @@
         }
         return texto;
       }
-
-
     </script>
-
-
   </div>
-
-
 </body>
-
-
 </html>
