@@ -124,16 +124,16 @@
         "objectFit": "cover"
     },
     {
-        "categoria": "Arte y literatura",
-        "pregunta": "Vivía en el 221B de Backer Street.",
-        "respuesta": "1",
-        "incorrecta1": "2",
-        "incorrecta2": "3",
-        "incorrecta3": "4",
+        "categoria": "",
+        "pregunta": "¿Cuál fue la primera civilización humana? ",
+        "respuesta": "Sumeria",
+        "incorrecta1": "Inca",
+        "incorrecta2": "Romana",
+        "incorrecta3": "Egipta",
         "objectFit": "cover"
     },
     {
-        "categoria": "Arte y literatura",
+        "categoria": "",
         "pregunta": "¿Quién fue el último faraón?",
         "respuesta": "Ramsés III.",
         "incorrecta1": "Tutankamón",
