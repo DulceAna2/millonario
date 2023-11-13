@@ -115,7 +115,7 @@
         "objectFit": "cover"
     },
     {
-        "categoria": "Arte y literatura",
+        "categoria": "Historia",
         "pregunta": "¿Cuánto tiempo duró la Guerra de los Cien Años?",
         "respuesta": "116 años",
         "incorrecta1": "100 años",
@@ -124,7 +124,7 @@
         "objectFit": "cover"
     },
     {
-        "categoria": "",
+        "categoria": "Historia",
         "pregunta": "¿Cuál fue la primera civilización humana? ",
         "respuesta": "Sumeria",
         "incorrecta1": "Inca",
@@ -133,7 +133,7 @@
         "objectFit": "cover"
     },
     {
-        "categoria": "",
+        "categoria": "Historia",
         "pregunta": "¿Quién fue el último faraón?",
         "respuesta": "Ramsés III.",
         "incorrecta1": "Tutankamón",
