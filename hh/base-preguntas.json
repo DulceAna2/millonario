@@ -98,20 +98,20 @@
     },
     {
         "categoria": "Arte y literatura",
-        "pregunta": "Vivía en el 221B de Backer Street.",
-        "respuesta": "1",
-        "incorrecta1": "2",
-        "incorrecta2": "3",
-        "incorrecta3": "4",
+        "pregunta": " ¿Cuántos arco aórtico tiene un gusano de tierra?",
+        "respuesta": "5",
+        "incorrecta1": "No tiene",
+        "incorrecta2": "1",
+        "incorrecta3": "3",
         "objectFit": "cover"
     },
     {
         "categoria": "Arte y literatura",
-        "pregunta": "Vivía en el 221B de Backer Street.",
-        "respuesta": "1",
-        "incorrecta1": "2",
-        "incorrecta2": "3",
-        "incorrecta3": "4",
+        "pregunta": "¿En qué año cayó el muro de Berlín?",
+        "respuesta": "1989",
+        "incorrecta1": "1991",
+        "incorrecta2": "1945",
+        "incorrecta3": "1970",
         "objectFit": "cover"
     },
     {
