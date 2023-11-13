@@ -134,11 +134,11 @@
     },
     {
         "categoria": "Arte y literatura",
-        "pregunta": "Vivía en el 221B de Backer Street.",
-        "respuesta": "1",
-        "incorrecta1": "2",
-        "incorrecta2": "3",
-        "incorrecta3": "4",
+        "pregunta": "¿Quién fue el último faraón?",
+        "respuesta": "Ramsés III.",
+        "incorrecta1": "Tutankamón",
+        "incorrecta2": "Ramsés II",
+        "incorrecta3": "Nefertiti ",
         "objectFit": "cover"
     }
 
