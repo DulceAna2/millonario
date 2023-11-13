@@ -116,11 +116,11 @@
     },
     {
         "categoria": "Arte y literatura",
-        "pregunta": "Vivía en el 221B de Backer Street.",
-        "respuesta": "1",
-        "incorrecta1": "2",
-        "incorrecta2": "3",
-        "incorrecta3": "4",
+        "pregunta": "¿Cuánto tiempo duró la Guerra de los Cien Años?",
+        "respuesta": "116 años",
+        "incorrecta1": "111 años",
+        "incorrecta2": "106 años",
+        "incorrecta3": "98 años",
         "objectFit": "cover"
     },
     {
