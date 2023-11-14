@@ -2,20 +2,32 @@
   transition: all 0.3s;
 }
 
+header {
+  margin: 60px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  text-align: center;
+  font-size: 3em;
+  justify-content: center;
 
+}
 body {
-  background: cadetblue;
+  background-image: url(p10.webp);
+  background-repeat:no-repeat;
+  background-size:auto;
+  background-color: #ede6ff;
+  background-position-x: left;
   padding: 0;
   margin: 0;
   text-align: center;
   font-family: calibri;
-  font-size: 120%;
+  font-size: 150%;
 }
 
 
 .contenedor {
-  width: 98vw;
-  height: 97vh;
+  width: 100vw;
+  height: 85vh;
   display: inline-flex;
   flex-direction: column;
   justify-content: center;
@@ -27,11 +39,13 @@ body {
   position: relative;
   background: white;
   min-width: 300px;
-  width: 70%;
-  max-width: 600px;
+  width: 90%;
+  max-width: 900px;
   padding: 10px;
 }
-
+.reglas{
+  width: 700px;
+}
 
 .categoria {
   opacity: 0.3;
@@ -54,10 +68,11 @@ body {
 .btn {
   background: white;
   width: 60%;
-  max-width: 550px;
+  max-width: 860px;
   padding: 10px;
-  margin: 5px;
-  cursor: pointer;
+  margin: 10px;
+  cursor:pointer;
+ 
 }
 
 
@@ -78,3 +93,4 @@ body {
   padding: 10px;
   color: white;
 }
+
