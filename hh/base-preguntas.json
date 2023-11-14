@@ -89,11 +89,11 @@
     },
     {
         "categoria": "Arte y literatura",
-        "pregunta": "Vivía en el 221B de Backer Street.",
-        "respuesta": "1",
-        "incorrecta1": "2",
-        "incorrecta2": "3",
-        "incorrecta3": "4",
+        "pregunta": "¿Cuántos huesos hay en el cuerpo humano?",
+        "respuesta": "206",
+        "incorrecta1": "320",
+        "incorrecta2": "150",
+        "incorrecta3": "400",
         "objectFit": "cover"
     },
     {
