@@ -1,7 +1,6 @@
 * {
   transition: all 0.3s;
 }
-
 header {
   margin: 60px;
   margin-top: 0px;
@@ -9,10 +8,9 @@ header {
   text-align: center;
   font-size: 3em;
   justify-content: center;
-
 }
 body {
-  background-image: url(p10.webp);
+  background-image: url(p10.png);
   background-repeat:no-repeat;
   background-size:auto;
   background-color: #ede6ff;
@@ -23,8 +21,6 @@ body {
   font-family: calibri;
   font-size: 150%;
 }
-
-
 .contenedor {
   width: 100vw;
   height: 85vh;
@@ -33,8 +29,6 @@ body {
   justify-content: center;
   align-items: center;
 }
-
-
 .encabezado {
   position: relative;
   background: white;
@@ -46,25 +40,18 @@ body {
 .reglas{
   width: 700px;
 }
-
 .categoria {
   opacity: 0.3;
   text-align: left;
 }
-
-
 .pregunta {
   padding: 10px;
 }
-
-
 .imagen {
   object-fit: cover;
   height: 0px;
   width: 0px;
 }
-
-
 .btn {
   background: white;
   width: 60%;
@@ -72,25 +59,29 @@ body {
   padding: 10px;
   margin: 10px;
   cursor:pointer;
- 
 }
-
-
 .btn:hover {
   transform: scale(1.05);
 }
-
-
 .numero {
   position: absolute;
   opacity: 0.3;
   top: 10px;
   right: 10px;
 }
-
-
 .puntaje {
   padding: 10px;
-  color: white;
+  color: black;
 }
-
+button{
+  margin: 10px;
+  padding: 5px; 
+  font-size: 1em;
+  background-color: #ffe5ec;
+  font-style: oblique;
+  border-radius: 10px;
+}
+button a{
+text-decoration: none; /* Sin decoración */
+color: black;
+}
