@@ -11,10 +11,7 @@
 
 
 <body>
-  
   <div class="contenedor">
-   
-
     <div class="puntaje" id="puntaje"></div>
     <div class="encabezado">
       <div class="categoria" id="categoria">
@@ -28,7 +25,7 @@
     <div class="btn" id="btn2" onclick="oprimir_btn(1)"></div>
     <div class="btn" id="btn3" onclick="oprimir_btn(2)"></div>
     <div class="btn" id="btn4" onclick="oprimir_btn(3)"></div>
-    <button style="margin: 10px;padding: 5px; font-size: 1em; background-color: aquamarine;"><a href="inicio.html">Reiniciar Juego</a></button>
+    <button ><a href="inicio.html">Reiniciar Juego</a></button>
     <script>
       let preguntas_aleatorias = true;
       let mostrar_pantalla_juego_términado = true;
@@ -48,8 +45,6 @@
         select_id("btn4")
       ];
       let npreguntas = [];
-
-
       let preguntas_hechas = 0;
       let preguntas_correctas = 0;
 
@@ -69,7 +64,6 @@
           }
           npreguntas = [];
           return;
-
         }
 
         let n;
@@ -200,20 +194,13 @@
           return;
         }
 
-
-
-
         setTimeout(() => {
           reiniciar();
           suspender_botones = false;
         }, 3000);
       }
 
-
-
-
       // let p = prompt("numero")
-
 
       function reiniciar() {
         for (const btn of btn_correspondiente) {
