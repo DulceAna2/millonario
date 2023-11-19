@@ -1,4 +1,5 @@
 [
+
     {
         "categoria": "Arte y literatura",
         "pregunta": "¿Quién pintó la mona lisa?",
@@ -6,8 +7,20 @@
         "incorrecta1": "Picasso",
         "incorrecta2": "Miguel Ángel",
         "incorrecta3": "Monet",
+        "imagen": "https://i.ibb.co/9cjvmw1/mona-lisa.jpg",
         "objectFit": "cover"
     },
+   
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Que personaje es el siguiente?",
+        "respuesta": "Minions",
+        "incorrecta1":"Pepe Argento",
+        "incorrecta2":"Gato con Botas",
+        "incorrecta3":"Rapunzel",
+        "imagen":"https://t1.uc.ltmcdn.com/es/posts/5/6/3/bob_40365_2_600.webp",
+        "objectFit": "cover"
+    } ,
     {
         "categoria": "Arte y literatura",
         "pregunta": "Pintor de  \"El jardín de las delicias\"",
@@ -60,6 +73,7 @@
         "incorrecta1": "Julio Verne",
         "incorrecta2": "Silvina Ocampo",
         "incorrecta3": "Alejandra Pizarnik",
+        "imagen":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyrCoH2sOsVVFTjk9KAIdAManMk-3RKVvG8rHeF_R9WcrSl2Jde6hA7zhEmlg0d3iCep0p5BxQFfYZw-yKryMuH23u1Zu1L5uJ0H5djxNvkEzk5frGiOGEfCl_sNjcuqmLeMRzT-dTewGvbsgVZss2XNwCtqvK3C3hJ0_xGPzvaMNb_5FUC99rV51e/s313/fa00961df90f1323e8173c85d98f824a.jpg",
         "objectFit": "cover"
     },
     {
@@ -110,7 +124,7 @@
     {
         "categoria": "Historia",
         "pregunta": "¿Quién fue el último faraón?",
-        "respuesta": "Ramsés III.",
+        "respuesta": "Ramsés III",
         "incorrecta1": "Tutankamón",
         "incorrecta2": "Ramsés II",
         "incorrecta3": "Nefertiti ",
@@ -137,7 +151,7 @@
     {
         "categoria": "Historia",
         "pregunta": "¿En qué guerra participó Juana de Arco?",
-        "respuesta": "Guerra de los 100 años.",
+        "respuesta": "Guerra de los 100 años",
         "incorrecta1":"Guerra de la independencia francesa",
         "incorrecta2":"Guerra Civil Española",
         "incorrecta3":"Guerra Civil Rusa",
@@ -186,6 +200,7 @@
         "incorrecta1":"Madrid",
         "incorrecta2":"Cataluña",
         "incorrecta3":"Valencia",
+        "imagen":"https://assets.gocity.com/files/ufrfmb406/files/styles/wysiwyg_medium/public/exterior.jpg",
         "objectFit": "cover"
     },
     {
@@ -197,15 +212,7 @@
         "incorrecta3":"Africa",
         "objectFit": "cover"
     },
-    {
-        "categoria": "Matematica",
-        "pregunta": "¿Cuántos minutos tiene una hora?",
-        "respuesta": "60",
-        "incorrecta1":"24",
-        "incorrecta2":"70",
-        "incorrecta3":"40",
-        "objectFit": "cover"
-    },
+
 
     {
         "categoria": "Matematica",
@@ -223,6 +230,7 @@
         "incorrecta1":"Bing Bong",
         "incorrecta2":"Peppa Pig",
         "incorrecta3":"Winnie Pooh",
+        "imagen":"https://i.pinimg.com/originals/17/dc/b9/17dcb9d1f817759453077a8663c0b2f0.png",
         "objectFit": "cover"
     },
     {
@@ -260,8 +268,60 @@
         "incorrecta2":"Beethoven",
         "incorrecta3":"Leonardo da Vinci",
         "objectFit": "cover"
+    },
+    {
+        "categoria":"Geografia",
+        "pregunta":"¿Cual es el pais mas extenso del mundo?",
+        "respuesta":"Rusia",
+        "incorrecta1":"China",
+        "incorrecta2":"Estados Unidos",
+        "incorrecta3":"Brasil",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"Arte y literatura",
+        "pregunta":"¿Como se llama el ser mitologico que es mitad pez y mitad humano?",
+        "respuesta":"Sirena",
+        "incorrecta1":"Minotauros",
+        "incorrecta2":"Faunos",
+        "incorrecta3":"Centauros",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"Geografia",
+        "pregunta":"¿En que pais se hicieron los primeros juegos olimpicos?",
+        "respuesta":"Grecia",
+        "incorrecta1":"Rusia",
+        "incorrecta2":"Francia",
+        "incorrecta3":"España",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"Deporte",
+        "pregunta":"¿De que numero juega Messi en la seleccion Argentina?",
+        "respuesta":"10",
+        "incorrecta1":"19",
+        "incorrecta2":"9",
+        "incorrecta3":"23",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"Arte y literatura",
+        "pregunta":"¿Qué célebre pintor perdió una oreja?",
+        "respuesta":"Van Gogh",
+        "incorrecta1":"Vivaldi",
+        "incorrecta2":"Morzat",
+        "incorrecta3":"Marcelo Polino",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"Geografia",
+        "pregunta":"¿Qué país tiene forma de bota?",
+        "respuesta":"Italia",
+        "incorrecta1":"Marruecos",
+        "incorrecta2":"Uruguay",
+        "incorrecta3":"Chile",
+        "objectFit": "cover"
     }
-   
-   
     ]
-
+   
