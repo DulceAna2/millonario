@@ -53,8 +53,8 @@
           //pantalla cuanto se termina las 10 preguntas
           if (mostrar_pantalla_juego_términado) {
             swal.fire({
-              title: "juego terminado",
-              text: "puntuacion" + preguntas_correctas + "/10",
+              title: "Juego Terminado",
+              text: "puntuacion " + preguntas_correctas + "/10",
               icon: "sucess"
             });
           }
@@ -90,7 +90,7 @@
             n = 0;
           }
           if (npreguntas.length == interprete_bp.length) {
-            //Aquí es donde el juego se reinicia
+            //el juego se reinicia
             if (mostrar_pantalla_juego_términado) {
               swal.fire({
                 title: "Juego finalizado",
@@ -131,8 +131,8 @@
         desordenarRespuestas(pregunta);
         if (pregunta.imagen) {
           select_id("imagen").setAttribute("src", pregunta.imagen);
-          style("imagen").height = "200px";
-          style("imagen").width = "100%";
+          style("imagen").height = "150px";
+          style("imagen").width = "200px";
         } else {
           style("imagen").height = "0px";
           style("imagen").width = "0px";
