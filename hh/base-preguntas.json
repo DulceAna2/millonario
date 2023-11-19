@@ -18,24 +18,6 @@
         "objectFit": "cover"
     },
     {
-        "categoria": "Arte y literatura",
-        "pregunta": "Significado de  \"El jardín de las delicias\"",
-        "respuesta": "Mundo Terrenal",
-        "incorrecta1": "Es Mejor Morir",
-        "incorrecta2": "Dios Es El Camino",
-        "incorrecta3": "Adán Y Eva",
-        "objectFit": "cover"
-    },
-    {
-        "categoria": "Arte y literatura",
-        "pregunta": "Vivía en el 221B de Backer Street.",
-        "respuesta": "Sherlock Holmes",
-        "incorrecta1": "Katniss Everdeen",
-        "incorrecta2": "Hermione Jean Granger",
-        "incorrecta3": "Harry James Potter \r",
-        "objectFit": "cover"
-    },
-    {
         "categoria": "Cuerpo Humano",
         "pregunta": "¿En qué lugar del cuerpo se produce la insulina?",
         "respuesta": "Páncreas",
@@ -171,15 +153,6 @@
         "objectFit": "cover"
     },
     {
-        "categoria": "Historia",
-        "pregunta": "¿Qué año tuvo 355 días?",
-        "respuesta": "1582",
-        "incorrecta1":"1615",
-        "incorrecta2":"1823",
-        "incorrecta3":"1432",
-        "objectFit": "cover"
-    },
-    {
         "categoria": "Ciencias Exactas",
         "pregunta": "¿Cuál es el elemento químico más abundante en la corteza terrestre?",
         "respuesta": "Oxígeno",
@@ -214,5 +187,81 @@
         "incorrecta2":"Cataluña",
         "incorrecta3":"Valencia",
         "objectFit": "cover"
+    },
+    {
+        "categoria": "Geografia",
+        "pregunta": "¿En que continente queda Argentina?",
+        "respuesta": "America",
+        "incorrecta1":"Europa",
+        "incorrecta2":"Asia",
+        "incorrecta3":"Africa",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Matematica",
+        "pregunta": "¿Cuántos minutos tiene una hora?",
+        "respuesta": "60",
+        "incorrecta1":"24",
+        "incorrecta2":"70",
+        "incorrecta3":"40",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Matematica",
+        "pregunta": "¿Cuántos minutos tiene una hora?",
+        "respuesta": "60 minutos",
+        "incorrecta1":"24 minutos",
+        "incorrecta2":"70 minutos",
+        "incorrecta3":"40 minutos",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Como se llama el elefante de Disney?",
+        "respuesta": "Dumbo",
+        "incorrecta1":"Bing Bong",
+        "incorrecta2":"Peppa Pig",
+        "incorrecta3":"Winnie Pooh",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Ciencias Naturales",
+        "pregunta": "¿Cómo se llaman los animales que tienen un esqueleto articulado?",
+        "respuesta": "Vertebrados.",
+        "incorrecta1":"Invertebrados.",
+        "incorrecta2":"Esqueleticos",
+        "incorrecta3":"Articulados",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"Matematica",
+        "pregunta":"¿Cuál es el resultado de 9x9?",
+        "respuesta": "81",
+        "incorrecta1":"18",
+        "incorrecta2":"90",
+        "incorrecta3":"78",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"Ciencias Naturales",
+        "pregunta":"¿A través de que órgano respiran los peces?",
+        "respuesta": "Branquias",
+        "incorrecta1":"Alas",
+        "incorrecta2":"Aletas",
+        "incorrecta3":"Nariz",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"Arte y literatura",
+        "pregunta":"Las cuatro estaciones es una composición de...",
+        "respuesta": "Vivaldi",
+        "incorrecta1":"Mozart",
+        "incorrecta2":"Beethoven",
+        "incorrecta3":"Leonardo da Vinci",
+        "objectFit": "cover"
     }
+   
+   
     ]
+
