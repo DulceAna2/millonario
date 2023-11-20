@@ -1,5 +1,4 @@
 [
-
     {
         "categoria": "Arte y literatura",
         "pregunta": "¿Quién pintó la mona lisa?",
@@ -236,8 +235,8 @@
     {
         "categoria": "Ciencias Naturales",
         "pregunta": "¿Cómo se llaman los animales que tienen un esqueleto articulado?",
-        "respuesta": "Vertebrados.",
-        "incorrecta1":"Invertebrados.",
+        "respuesta": "Vertebrados",
+        "incorrecta1":"Invertebrados",
         "incorrecta2":"Esqueleticos",
         "incorrecta3":"Articulados",
         "objectFit": "cover"
@@ -352,5 +351,356 @@
         "incorrecta3":"Baratheon",
         "imagen":"https://elcomercio.pe/resizer/p29vZAJEtGD1S7zVsm6XbczyBaM=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/PAZWVLOZ5FGCVLRETHTRVCUMDM.jpg",
         "objectFit": "cover"
+    },
+    {
+        "categoria":"",
+        "pregunta":"",
+        "respuesta":"",
+        "incorrecta1":"",
+        "incorrecta2":"",
+        "incorrecta3":"",
+        "imagen":"",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"",
+        "pregunta":"",
+        "respuesta":"",
+        "incorrecta1":"",
+        "incorrecta2":"",
+        "incorrecta3":"",
+        "imagen":"",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"",
+        "pregunta":"",
+        "respuesta":"",
+        "incorrecta1":"",
+        "incorrecta2":"",
+        "incorrecta3":"",
+        "imagen":"",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"",
+        "pregunta":"",
+        "respuesta":"",
+        "incorrecta1":"",
+        "incorrecta2":"",
+        "incorrecta3":"",
+        "imagen":"",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"",
+        "pregunta":"",
+        "respuesta":"",
+        "incorrecta1":"",
+        "incorrecta2":"",
+        "incorrecta3":"",
+        "imagen":"",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"",
+        "pregunta":"",
+        "respuesta":"",
+        "incorrecta1":"",
+        "incorrecta2":"",
+        "incorrecta3":"",
+        "imagen":"",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"",
+        "pregunta":"",
+        "respuesta":"",
+        "incorrecta1":"",
+        "incorrecta2":"",
+        "incorrecta3":"",
+        "imagen":"",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"",
+        "pregunta":"",
+        "respuesta":"",
+        "incorrecta1":"",
+        "incorrecta2":"",
+        "incorrecta3":"",
+        "imagen":"",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"",
+        "pregunta":"",
+        "respuesta":"",
+        "incorrecta1":"",
+        "incorrecta2":"",
+        "incorrecta3":"",
+        "imagen":"",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"",
+        "pregunta":"",
+        "respuesta":"",
+        "incorrecta1":"",
+        "incorrecta2":"",
+        "incorrecta3":"",
+        "imagen":"",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"",
+        "pregunta":"",
+        "respuesta":"",
+        "incorrecta1":"",
+        "incorrecta2":"",
+        "incorrecta3":"",
+        "imagen":"",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"",
+        "pregunta":"",
+        "respuesta":"",
+        "incorrecta1":"",
+        "incorrecta2":"",
+        "incorrecta3":"",
+        "imagen":"",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"",
+        "pregunta":"",
+        "respuesta":"",
+        "incorrecta1":"",
+        "incorrecta2":"",
+        "incorrecta3":"",
+        "imagen":"",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"",
+        "pregunta":"",
+        "respuesta":"",
+        "incorrecta1":"",
+        "incorrecta2":"",
+        "incorrecta3":"",
+        "imagen":"",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"",
+        "pregunta":"",
+        "respuesta":"",
+        "incorrecta1":"",
+        "incorrecta2":"",
+        "incorrecta3":"",
+        "imagen":"",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"",
+        "pregunta":"",
+        "respuesta":"",
+        "incorrecta1":"",
+        "incorrecta2":"",
+        "incorrecta3":"",
+        "imagen":"",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"",
+        "pregunta":"",
+        "respuesta":"",
+        "incorrecta1":"",
+        "incorrecta2":"",
+        "incorrecta3":"",
+        "imagen":"",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"",
+        "pregunta":"",
+        "respuesta":"",
+        "incorrecta1":"",
+        "incorrecta2":"",
+        "incorrecta3":"",
+        "imagen":"",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"",
+        "pregunta":"",
+        "respuesta":"",
+        "incorrecta1":"",
+        "incorrecta2":"",
+        "incorrecta3":"",
+        "imagen":"",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"",
+        "pregunta":"",
+        "respuesta":"",
+        "incorrecta1":"",
+        "incorrecta2":"",
+        "incorrecta3":"",
+        "imagen":"",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"",
+        "pregunta":"",
+        "respuesta":"",
+        "incorrecta1":"",
+        "incorrecta2":"",
+        "incorrecta3":"",
+        "imagen":"",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"",
+        "pregunta":"",
+        "respuesta":"",
+        "incorrecta1":"",
+        "incorrecta2":"",
+        "incorrecta3":"",
+        "imagen":"",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"",
+        "pregunta":"",
+        "respuesta":"",
+        "incorrecta1":"",
+        "incorrecta2":"",
+        "incorrecta3":"",
+        "imagen":"",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"",
+        "pregunta":"",
+        "respuesta":"",
+        "incorrecta1":"",
+        "incorrecta2":"",
+        "incorrecta3":"",
+        "imagen":"",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"",
+        "pregunta":"",
+        "respuesta":"",
+        "incorrecta1":"",
+        "incorrecta2":"",
+        "incorrecta3":"",
+        "imagen":"",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"",
+        "pregunta":"",
+        "respuesta":"",
+        "incorrecta1":"",
+        "incorrecta2":"",
+        "incorrecta3":"",
+        "imagen":"",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"",
+        "pregunta":"",
+        "respuesta":"",
+        "incorrecta1":"",
+        "incorrecta2":"",
+        "incorrecta3":"",
+        "imagen":"",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"",
+        "pregunta":"",
+        "respuesta":"",
+        "incorrecta1":"",
+        "incorrecta2":"",
+        "incorrecta3":"",
+        "imagen":"",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"",
+        "pregunta":"",
+        "respuesta":"",
+        "incorrecta1":"",
+        "incorrecta2":"",
+        "incorrecta3":"",
+        "imagen":"",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"",
+        "pregunta":"",
+        "respuesta":"",
+        "incorrecta1":"",
+        "incorrecta2":"",
+        "incorrecta3":"",
+        "imagen":"",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"",
+        "pregunta":"",
+        "respuesta":"",
+        "incorrecta1":"",
+        "incorrecta2":"",
+        "incorrecta3":"",
+        "imagen":"",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"",
+        "pregunta":"",
+        "respuesta":"",
+        "incorrecta1":"",
+        "incorrecta2":"",
+        "incorrecta3":"",
+        "imagen":"",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"",
+        "pregunta":"",
+        "respuesta":"",
+        "incorrecta1":"",
+        "incorrecta2":"",
+        "incorrecta3":"",
+        "imagen":"",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"",
+        "pregunta":"",
+        "respuesta":"",
+        "incorrecta1":"",
+        "incorrecta2":"",
+        "incorrecta3":"",
+        "imagen":"",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"",
+        "pregunta":"",
+        "respuesta":"",
+        "incorrecta1":"",
+        "incorrecta2":"",
+        "incorrecta3":"",
+        "imagen":"",
+        "objectFit": "cover"
     }
     ]
+
