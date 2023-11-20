@@ -322,6 +322,35 @@
         "incorrecta2":"Uruguay",
         "incorrecta3":"Chile",
         "objectFit": "cover"
+    },
+    {
+        "categoria":"Entretenimiento",
+        "pregunta":"¿Quién interpretó a Hermione Granger en 'Harry Potter?",
+        "respuesta":"Emma Watson",
+        "incorrecta1":"Angelina Jolie",
+        "incorrecta2":"Emma Thompson",
+        "incorrecta3":"Anne Hathaway",
+        "imagen":"https://elcomercio.pe/resizer/xAdFpV8RtsPpkl5I0YIbnqSh6hU=/580x330/smart/filters:format(jpeg):quality(90)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/5ZTBLFN5YND3ZD3TVAZPAFAAUY.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"Entretenimiento",
+        "pregunta":"¿A que familia pertenece este fondo?",
+        "respuesta":"Simpson",
+        "incorrecta1":"Flanders",
+        "incorrecta2":"Argento",
+        "incorrecta3":"Ramones",
+        "imagen":"https://files.cults3d.com/uploaders/24821116/illustration-file/b43fc618-96c4-4a38-8569-9020a9a38781/Sillon-Simpson.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"Entretenimiento",
+        "pregunta":"¿Que familia ficticia tienen los ojos violetas y el pelo blanco?",
+        "respuesta":"Targaryen",
+        "incorrecta1":"Lannister",
+        "incorrecta2":"Stark",
+        "incorrecta3":"Baratheon",
+        "imagen":"https://elcomercio.pe/resizer/p29vZAJEtGD1S7zVsm6XbczyBaM=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/PAZWVLOZ5FGCVLRETHTRVCUMDM.jpg",
+        "objectFit": "cover"
     }
     ]
-   
