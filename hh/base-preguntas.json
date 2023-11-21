@@ -372,12 +372,66 @@
     },
     {
         "categoria":"",
-        "pregunta":"",
-        "respuesta":"",
-        "incorrecta1":"",
-        "incorrecta2":"",
-        "incorrecta3":"",
-        "imagen":"",
+        "pregunta":"¿Cual es la razon de la extinción de los dinosaurios?",
+        "respuesta":"Impacto de un meteorito",
+        "incorrecta1":"Se tomaron una Coca Cola vencida",
+        "incorrecta2":"Los mato un dragon",
+        "incorrecta3":"Los mato un piano",
+        "imagen":"https://static.nationalgeographic.es/files/styles/image_3200/public/asteroid_2487482.jpg?w=1600&h=900",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"",
+        "pregunta":"¿Cuál es la cuarta letra del abecedario?",
+        "respuesta":"D",
+        "incorrecta1":"U",
+        "incorrecta2":"A",
+        "incorrecta3":"N",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"",
+        "pregunta":"¿Qué color se forma cuando se combina el rojo y el amarillo?",
+        "respuesta":"Naranja",
+        "incorrecta1":"Azul",
+        "incorrecta2":"Violeta",
+        "incorrecta3":"Rosa",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"",
+        "pregunta":"¿Cuál es la estrella más cercana al planeta Tierra?",
+        "respuesta":"Sol",
+        "incorrecta1":"Sirius",
+        "incorrecta2":"Osa Mayor",
+        "incorrecta3":"Andromeda",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"",
+        "pregunta":"¿Cuál fue la primera película de Disney?",
+        "respuesta":"Blancanieves y los siete enanitos",
+        "incorrecta1":"Cenicienta",
+        "incorrecta2":"La sirenita",
+        "incorrecta3":"Aladdín",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"",
+        "pregunta":"Complete el siguiente dicho.  -Dios los cria y el viento los ...",
+        "respuesta":"amontona",
+        "incorrecta1":"dispersa",
+        "incorrecta2":"junta",
+        "incorrecta3":"divide",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"",
+        "pregunta":"¿Qué frase se usa para describir a especies animales que podrían desaparecer?",
+        "respuesta":"En peligro de extinción",
+        "incorrecta1":"Peligrosos",
+        "incorrecta2":"Bajo riesgo",
+        "incorrecta3":"Bajo amenaza",
         "objectFit": "cover"
     },
     {
@@ -387,208 +441,7 @@
         "incorrecta1":"",
         "incorrecta2":"",
         "incorrecta3":"",
-        "imagen":"",
-        "objectFit": "cover"
-    },
-    {
-        "categoria":"",
-        "pregunta":"",
-        "respuesta":"",
-        "incorrecta1":"",
-        "incorrecta2":"",
-        "incorrecta3":"",
-        "imagen":"",
-        "objectFit": "cover"
-    },
-    {
-        "categoria":"",
-        "pregunta":"",
-        "respuesta":"",
-        "incorrecta1":"",
-        "incorrecta2":"",
-        "incorrecta3":"",
-        "imagen":"",
-        "objectFit": "cover"
-    },
-    {
-        "categoria":"",
-        "pregunta":"",
-        "respuesta":"",
-        "incorrecta1":"",
-        "incorrecta2":"",
-        "incorrecta3":"",
-        "imagen":"",
-        "objectFit": "cover"
-    },
-    {
-        "categoria":"",
-        "pregunta":"",
-        "respuesta":"",
-        "incorrecta1":"",
-        "incorrecta2":"",
-        "incorrecta3":"",
-        "imagen":"",
-        "objectFit": "cover"
-    },
-    {
-        "categoria":"",
-        "pregunta":"",
-        "respuesta":"",
-        "incorrecta1":"",
-        "incorrecta2":"",
-        "incorrecta3":"",
-        "imagen":"",
-        "objectFit": "cover"
-    },
-    {
-        "categoria":"",
-        "pregunta":"",
-        "respuesta":"",
-        "incorrecta1":"",
-        "incorrecta2":"",
-        "incorrecta3":"",
-        "imagen":"",
-        "objectFit": "cover"
-    },
-    {
-        "categoria":"",
-        "pregunta":"",
-        "respuesta":"",
-        "incorrecta1":"",
-        "incorrecta2":"",
-        "incorrecta3":"",
-        "imagen":"",
-        "objectFit": "cover"
-    },
-    {
-        "categoria":"",
-        "pregunta":"",
-        "respuesta":"",
-        "incorrecta1":"",
-        "incorrecta2":"",
-        "incorrecta3":"",
-        "imagen":"",
-        "objectFit": "cover"
-    },
-    {
-        "categoria":"",
-        "pregunta":"",
-        "respuesta":"",
-        "incorrecta1":"",
-        "incorrecta2":"",
-        "incorrecta3":"",
-        "imagen":"",
-        "objectFit": "cover"
-    },
-    {
-        "categoria":"",
-        "pregunta":"",
-        "respuesta":"",
-        "incorrecta1":"",
-        "incorrecta2":"",
-        "incorrecta3":"",
-        "imagen":"",
-        "objectFit": "cover"
-    },
-    {
-        "categoria":"",
-        "pregunta":"",
-        "respuesta":"",
-        "incorrecta1":"",
-        "incorrecta2":"",
-        "incorrecta3":"",
-        "imagen":"",
-        "objectFit": "cover"
-    },
-    {
-        "categoria":"",
-        "pregunta":"",
-        "respuesta":"",
-        "incorrecta1":"",
-        "incorrecta2":"",
-        "incorrecta3":"",
-        "imagen":"",
-        "objectFit": "cover"
-    },
-    {
-        "categoria":"",
-        "pregunta":"",
-        "respuesta":"",
-        "incorrecta1":"",
-        "incorrecta2":"",
-        "incorrecta3":"",
-        "imagen":"",
-        "objectFit": "cover"
-    },
-    {
-        "categoria":"",
-        "pregunta":"",
-        "respuesta":"",
-        "incorrecta1":"",
-        "incorrecta2":"",
-        "incorrecta3":"",
-        "imagen":"",
-        "objectFit": "cover"
-    },
-    {
-        "categoria":"",
-        "pregunta":"",
-        "respuesta":"",
-        "incorrecta1":"",
-        "incorrecta2":"",
-        "incorrecta3":"",
-        "imagen":"",
-        "objectFit": "cover"
-    },
-    {
-        "categoria":"",
-        "pregunta":"",
-        "respuesta":"",
-        "incorrecta1":"",
-        "incorrecta2":"",
-        "incorrecta3":"",
-        "imagen":"",
-        "objectFit": "cover"
-    },
-    {
-        "categoria":"",
-        "pregunta":"",
-        "respuesta":"",
-        "incorrecta1":"",
-        "incorrecta2":"",
-        "incorrecta3":"",
-        "imagen":"",
-        "objectFit": "cover"
-    },
-    {
-        "categoria":"",
-        "pregunta":"",
-        "respuesta":"",
-        "incorrecta1":"",
-        "incorrecta2":"",
-        "incorrecta3":"",
-        "imagen":"",
-        "objectFit": "cover"
-    },
-    {
-        "categoria":"",
-        "pregunta":"",
-        "respuesta":"",
-        "incorrecta1":"",
-        "incorrecta2":"",
-        "incorrecta3":"",
-        "imagen":"",
-        "objectFit": "cover"
-    },
-    {
-        "categoria":"",
-        "pregunta":"ddd",
-        "respuesta":"d",
-        "incorrecta1":"d",
-        "incorrecta2":"d",
-        "incorrecta3":"d",
         "imagen":"",
         "objectFit": "cover"
     }
     ]
-
