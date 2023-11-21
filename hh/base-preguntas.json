@@ -353,13 +353,21 @@
         "objectFit": "cover"
     },
     {
-        "categoria":"",
-        "pregunta":"",
-        "respuesta":"",
-        "incorrecta1":"",
-        "incorrecta2":"",
-        "incorrecta3":"",
-        "imagen":"",
+        "categoria":"Entretenimiento",
+        "pregunta":"¿Cuantos Teletubbies son en total?",
+        "respuesta":"4",
+        "incorrecta1":"5",
+        "incorrecta2":"3",
+        "incorrecta3":"7",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"Entretenimiento",
+        "pregunta":"¿Cual es el primer album de Taylor Swift?",
+        "respuesta":"Taylor Swift",
+        "incorrecta1":"Lover",
+        "incorrecta2":"Red",
+        "incorrecta3":"1989",
         "objectFit": "cover"
     },
     {
@@ -574,131 +582,11 @@
     },
     {
         "categoria":"",
-        "pregunta":"",
-        "respuesta":"",
-        "incorrecta1":"",
-        "incorrecta2":"",
-        "incorrecta3":"",
-        "imagen":"",
-        "objectFit": "cover"
-    },
-    {
-        "categoria":"",
-        "pregunta":"",
-        "respuesta":"",
-        "incorrecta1":"",
-        "incorrecta2":"",
-        "incorrecta3":"",
-        "imagen":"",
-        "objectFit": "cover"
-    },
-    {
-        "categoria":"",
-        "pregunta":"",
-        "respuesta":"",
-        "incorrecta1":"",
-        "incorrecta2":"",
-        "incorrecta3":"",
-        "imagen":"",
-        "objectFit": "cover"
-    },
-    {
-        "categoria":"",
-        "pregunta":"",
-        "respuesta":"",
-        "incorrecta1":"",
-        "incorrecta2":"",
-        "incorrecta3":"",
-        "imagen":"",
-        "objectFit": "cover"
-    },
-    {
-        "categoria":"",
-        "pregunta":"",
-        "respuesta":"",
-        "incorrecta1":"",
-        "incorrecta2":"",
-        "incorrecta3":"",
-        "imagen":"",
-        "objectFit": "cover"
-    },
-    {
-        "categoria":"",
-        "pregunta":"",
-        "respuesta":"",
-        "incorrecta1":"",
-        "incorrecta2":"",
-        "incorrecta3":"",
-        "imagen":"",
-        "objectFit": "cover"
-    },
-    {
-        "categoria":"",
-        "pregunta":"",
-        "respuesta":"",
-        "incorrecta1":"",
-        "incorrecta2":"",
-        "incorrecta3":"",
-        "imagen":"",
-        "objectFit": "cover"
-    },
-    {
-        "categoria":"",
-        "pregunta":"",
-        "respuesta":"",
-        "incorrecta1":"",
-        "incorrecta2":"",
-        "incorrecta3":"",
-        "imagen":"",
-        "objectFit": "cover"
-    },
-    {
-        "categoria":"",
-        "pregunta":"",
-        "respuesta":"",
-        "incorrecta1":"",
-        "incorrecta2":"",
-        "incorrecta3":"",
-        "imagen":"",
-        "objectFit": "cover"
-    },
-    {
-        "categoria":"",
-        "pregunta":"",
-        "respuesta":"",
-        "incorrecta1":"",
-        "incorrecta2":"",
-        "incorrecta3":"",
-        "imagen":"",
-        "objectFit": "cover"
-    },
-    {
-        "categoria":"",
-        "pregunta":"",
-        "respuesta":"",
-        "incorrecta1":"",
-        "incorrecta2":"",
-        "incorrecta3":"",
-        "imagen":"",
-        "objectFit": "cover"
-    },
-    {
-        "categoria":"",
-        "pregunta":"",
-        "respuesta":"",
-        "incorrecta1":"",
-        "incorrecta2":"",
-        "incorrecta3":"",
-        "imagen":"",
-        "objectFit": "cover"
-    },
-    {
-        "categoria":"",
-        "pregunta":"",
-        "respuesta":"",
-        "incorrecta1":"",
-        "incorrecta2":"",
-        "incorrecta3":"",
+        "pregunta":"ddd",
+        "respuesta":"d",
+        "incorrecta1":"d",
+        "incorrecta2":"d",
+        "incorrecta3":"d",
         "imagen":"",
         "objectFit": "cover"
     }
