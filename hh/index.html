@@ -68,9 +68,12 @@
         if (preguntas_hechas === 5) {
           // Pregunta al jugador si desea seguir jugando
           if (confirm("¿Quieres seguir jugando?")) {
-          } else {
+
+          } 
+          else {
             // Finaliza el juego si el jugador no desea continuar
-            mostrar_pantalla_juego_términado = true;
+            mostrar_pantalla_juego_terminado= true;
+            n=0;
             escogerPreguntaAleatoria();
             return;
           }
@@ -94,8 +97,7 @@
             if (mostrar_pantalla_juego_términado) {
               swal.fire({
                 title: "Juego finalizado",
-                text:
-                  "Puntuación: " + preguntas_correctas + "/" + (preguntas_hechas - 1),
+                text:"Puntuación: " + preguntas_correctas + "/" + (preguntas_hechas - 1),
                 icon: "success"
               });
             }
@@ -176,7 +178,7 @@
         } else {
           btn_correspondiente[i].style.background = "pink";
 
-
+          
           // Mostrar pantalla de juego terminado cuando el jugador se equivoque
           if (mostrar_pantalla_juego_términado) {
             swal.fire({
