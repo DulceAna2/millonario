@@ -382,15 +382,6 @@
     },
     {
         "categoria":"",
-        "pregunta":"¿Cuál es la cuarta letra del abecedario?",
-        "respuesta":"D",
-        "incorrecta1":"U",
-        "incorrecta2":"A",
-        "incorrecta3":"N",
-        "objectFit": "cover"
-    },
-    {
-        "categoria":"",
         "pregunta":"¿Qué color se forma cuando se combina el rojo y el amarillo?",
         "respuesta":"Naranja",
         "incorrecta1":"Azul",
@@ -432,6 +423,126 @@
         "incorrecta1":"Peligrosos",
         "incorrecta2":"Bajo riesgo",
         "incorrecta3":"Bajo amenaza",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"",
+        "pregunta":"",
+        "respuesta":"",
+        "incorrecta1":"",
+        "incorrecta2":"",
+        "incorrecta3":"",
+        "imagen":"",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"",
+        "pregunta":"",
+        "respuesta":"",
+        "incorrecta1":"",
+        "incorrecta2":"",
+        "incorrecta3":"",
+        "imagen":"",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"",
+        "pregunta":"",
+        "respuesta":"",
+        "incorrecta1":"",
+        "incorrecta2":"",
+        "incorrecta3":"",
+        "imagen":"",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"",
+        "pregunta":"",
+        "respuesta":"",
+        "incorrecta1":"",
+        "incorrecta2":"",
+        "incorrecta3":"",
+        "imagen":"",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"",
+        "pregunta":"",
+        "respuesta":"",
+        "incorrecta1":"",
+        "incorrecta2":"",
+        "incorrecta3":"",
+        "imagen":"",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"",
+        "pregunta":"",
+        "respuesta":"",
+        "incorrecta1":"",
+        "incorrecta2":"",
+        "incorrecta3":"",
+        "imagen":"",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"",
+        "pregunta":"",
+        "respuesta":"",
+        "incorrecta1":"",
+        "incorrecta2":"",
+        "incorrecta3":"",
+        "imagen":"",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"",
+        "pregunta":"",
+        "respuesta":"",
+        "incorrecta1":"",
+        "incorrecta2":"",
+        "incorrecta3":"",
+        "imagen":"",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"",
+        "pregunta":"",
+        "respuesta":"",
+        "incorrecta1":"",
+        "incorrecta2":"",
+        "incorrecta3":"",
+        "imagen":"",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"",
+        "pregunta":"",
+        "respuesta":"",
+        "incorrecta1":"",
+        "incorrecta2":"",
+        "incorrecta3":"",
+        "imagen":"",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"",
+        "pregunta":"",
+        "respuesta":"",
+        "incorrecta1":"",
+        "incorrecta2":"",
+        "incorrecta3":"",
+        "imagen":"",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"",
+        "pregunta":"",
+        "respuesta":"",
+        "incorrecta1":"",
+        "incorrecta2":"",
+        "incorrecta3":"",
+        "imagen":"",
         "objectFit": "cover"
     },
     {
